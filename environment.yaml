@@ -1,0 +1,16 @@
+name: pygogo
+
+channels:
+  - default
+  - conda-forge
+
+dependencies:
+  - git-lfs
+  - python<=3.8.2
+  - networkx
+  - numpy
+  - pandas
+  - pip
+  - pytest
+  - setuptools
+  - tqdm
